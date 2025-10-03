@@ -1,7 +1,6 @@
 first line of code.
 working on git hub is so confusing.
-<<<<<<< HEAD
-creating conflict.
-=======
 the third line of code.
->>>>>>> master
+creating conflict.
+after push hr to git.
+
